@@ -5,7 +5,11 @@ A 10-card memory game built with HTML, CSS, and JavaScript. Click two cards to f
 [![Screenshot-2026-10-04-at-1-57-55-AM.png](https://i.postimg.cc/3wLBkSFv/Screenshot-2026-10-04-at-1-57-55-AM.png)](https://postimg.cc/4K9tM1Mf)
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:** 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 The HTML is a simple page with a heading, an empty container for the cards, and a Reset button. The cards themselves are created with JavaScript.
 
